@@ -2,7 +2,6 @@
 - 👀 I’m interested in new ways to create and publish customer documentation.
 - 🌱 I am open-minded and enjoy learning new things every day.
 - 💞️ I would like to work on a new toolchain for the creation and publication of customer documentation.
-- 📫 You can reach me under svenanso@bosch.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I collect vehicles with two wheels.
 
